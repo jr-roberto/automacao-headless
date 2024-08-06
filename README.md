@@ -12,3 +12,7 @@ Ao executar o script com extenção [teste_automacao.vsb] o mesmo executa em mod
 2 - O arquivo [teste_automacao.bat] chama o script [teste_automacao.py]
 
 3 - O Exemplo script python ao ser executado gera um arquivo de log que escreve mensagens a cada segundo.
+
+# Configurar
+
+Para configurar o ambiente virtual execute o script [configure.bat]
