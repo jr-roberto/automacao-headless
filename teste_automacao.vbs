@@ -5,7 +5,7 @@ Set fso = CreateObject("Scripting.FileSystemObject")
 currentDir = fso.GetParentFolderName(WScript.ScriptFullName)
 
 ' Construa o caminho completo para o arquivo .bat
-batFile = currentDir & "\teste_automacap.bat"
+batFile = currentDir & "\teste_automacao.bat"
 
 WshShell.Run batFile , 0
 
